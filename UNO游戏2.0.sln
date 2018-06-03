@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNO游戏2.0", "UNO游戏2.0.csproj", "{0AB23A8A-32B2-06D0-E0AC-5B7BB45A9E8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNO游戏2.0.Editor", "UNO游戏2.0.Editor.csproj", "{28B606CC-59C3-5509-6182-B9A56DDCC222}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{0AB23A8A-32B2-06D0-E0AC-5B7BB45A9E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB23A8A-32B2-06D0-E0AC-5B7BB45A9E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB23A8A-32B2-06D0-E0AC-5B7BB45A9E8E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28B606CC-59C3-5509-6182-B9A56DDCC222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28B606CC-59C3-5509-6182-B9A56DDCC222}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28B606CC-59C3-5509-6182-B9A56DDCC222}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28B606CC-59C3-5509-6182-B9A56DDCC222}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

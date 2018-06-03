@@ -15,8 +15,8 @@ public class UnoCard : MonoBehaviour {
     /// </summary>
     public void ReloadSprite()
     {
-        Debug.Log(numberType.ToString());
-        
+        gameObject.GetComponent<SpriteRenderer>().sprite = utility.LoadResourcesImage("b0");
+
     }
 
 
